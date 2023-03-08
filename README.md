@@ -1,7 +1,7 @@
 # UW-LIS-545b
 Term Project for LIS 545b, UW MLIS program
 ## Introduction
-This repository was created as part of the Term Project for the course LIS 545b Data Curation I, taught by Matthew Mayernik during Winter Quarter 2023 at the University of Washington iSchool.
+This repository completes the Term Project for the course LIS 545b Data Curation I, taught by Matthew Mayernik during Winter Quarter 2023 at the University of Washington iSchool.
 
 The assignment uses a dataset initially found on the data.gov website at https://catalog.data.gov/dataset/dycd-after-school-programs-fatherhood/resource/e16b50ac-9d3b-4275-9848-999c54ec54e1.
 
