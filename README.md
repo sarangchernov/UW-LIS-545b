@@ -12,7 +12,7 @@ The dataset is titled "DYCD after-school programs: Fatherhood" and can be found 
 
 2. Data.json Metadata file downloaded from the dataset's data.gov page, JSON format
 
-3. Structured Metadata file for DYCD Dataset, XML format
+3. Structured Metadata file created for this DYCD Dataset, XML format
 
 4. Data and Metadata Profile, PDF format
 
