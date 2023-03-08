@@ -8,17 +8,17 @@ The assignment uses a dataset initially found on the data.gov website at https:/
 The dataset is titled "DYCD after-school programs: Fatherhood" and can be found on its landing page https://data.cityofnewyork.us/Social-Services/DYCD-after-school-programs-Fatherhood/esw6-z4id.
 
 ## Table of Contents
-1. Dataset titled "DYCD after-school programs: Fatherhood"
+1. Dataset titled "DYCD after-school programs: Fatherhood", CSV format
 
-2. Data.json Metadata file from data.gov page
+2. Data.json Metadata file downloaded from the dataset's data.gov page, JSON format
 
-3. Metadata for DYCD Dataset
+3. Structured Metadata file for DYCD Dataset, XML format
 
-4. Data and Metadata Profile
+4. Data and Metadata Profile, PDF format
 
-5. Repository Profile
+5. Repository Profile, PDF format
 
-6. Additional Information:
+6. Additional Information, PDF format:
 - data citation
 - long-term preservation considerations
 - copyright license
